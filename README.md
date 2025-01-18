@@ -1,5 +1,5 @@
 # Course-Certificates
-This repository contains my all course completion certificates. 
+This repository contains all my course completion certificates. 
 
 #List of Certificates
 - [Introduction to Software Engineering By IBM](https://drive.google.com/file/d/1yDZGt4l5C9l9zygggDnfyaQ9jdIc3vuU/view?usp=sharing)
